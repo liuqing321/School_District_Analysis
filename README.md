@@ -63,4 +63,11 @@ Math passing rate, reading passing rate and overall passing rate for medium size
 Math passing rate, reading passing rata and the overall passing rate in charter school have decreased. The results for District schools were not affected by the changes in Thomas school. The average math score and the average reading score for the charter schools almost the same as before. 
 
 
- 
+## Summary 
+
+Removing the grades of 9th grade students in Thomas High School didn't affect the entire analysis dramatically. So the conclusions we drew from the analysis are the same as before. 
+
+
+
+
+
